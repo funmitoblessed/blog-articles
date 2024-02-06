@@ -1,6 +1,6 @@
 ---
 title: "Don't be a Victim! - Celebrating Safer Internet Day 2024"
-seoTitle: "safer internet day 2024"
+seoTitle: "Celebrating World Safer Internet Day 2024"
 datePublished: Tue Feb 06 2024 11:05:11 GMT+0000 (Coordinated Universal Time)
 cuid: clsa986yg000308lcczwgcluy
 slug: dont-be-a-victim-safer-inernet-day
